@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+
+.container {
+  background-color: rgb(223, 223, 223);
+  width: 35%;
+  margin: auto;
+  padding: 0.5rem;
+}
+
+.heightBlock {
+  margin: 1rem;
+}
+
+.weightBlock {
+  margin: 1rem;
+}
+
+button {
+  width: 162px;
+  height: 38px;
+}
